@@ -1,6 +1,8 @@
 # Among Us GitHub: Exploring Open-Source Projects and Mods 🔍
 
-### Play Among Us here
+[![among2](https://github.com/user-attachments/assets/0630d799-a983-46b7-b425-45c554dd62af)](https://amongus-online.io/)
+
+### Play [Among Us here](https://amongus-online.io/)
 
 Among Us has taken the gaming world by storm with its deception-based multiplayer gameplay. While the official game is developed by InnerSloth, the Among Us GitHub community has expanded the game’s possibilities through mods, open-source projects, and fan-made enhancements. If you're interested in custom features, bot automation, or even creating your own version of the game, this guide will introduce you to the Among Us GitHub scene.
 
@@ -11,13 +13,13 @@ GitHub is a platform for developers to collaborate, share, and modify code. Many
 
 ### Popular Uses of GitHub for Among Us:
 
-- Modding the Game – Custom roles, skins, and abilities.
+1. Modding the Game – Custom roles, skins, and abilities.
 
-- Creating Private Servers – Host your own Among Us server with modified rules.
+2. Creating Private Servers – Host your own Among Us server with modified rules.
 
-- Bot Development – Automate tasks, voting, and moderation.
+3. Bot Development – Automate tasks, voting, and moderation.
 
-- Fan-Made Clones – Play open-source versions of Among Us.
+4. Fan-Made Clones – Play open-source versions of Among Us.
 
 ---
 ## 🔥 Popular Among Us GitHub Projects
@@ -26,76 +28,77 @@ Here are some of the most interesting Among Us projects on GitHub:
 
 ### 1. Among Us Mod Loader
 
-. A modding tool that makes it easier to install and manage mods.
+- A modding tool that makes it easier to install and manage mods.
 
-. Allows for custom roles, game mechanics, and new skins.
+- Allows for custom roles, game mechanics, and new skins.
 
 ### 2. Among Us Bots
 
-Bots that automate gameplay, detect cheaters, or assist with moderation.
+- Bots that automate gameplay, detect cheaters, or assist with moderation.
 
-Some bots can track player statistics and behavior.
+- Some bots can track player statistics and behavior.
 
 ### 3. Among Us Private Servers
 
-Open-source server software for creating custom lobbies.
+- Open-source server software for creating custom lobbies.
 
-Modify rules, add roles, and play without the official matchmaking system.
+- Modify rules, add roles, and play without the official matchmaking system.
 
 ### 4. Among Us Custom Roles Mods
 
-Introduces new roles like Jester, Sheriff, Engineer, and Guardian Angel.
+- Introduces new roles like Jester, Sheriff, Engineer, and Guardian Angel.
 
-Expands gameplay beyond the default crewmate vs. impostor mechanics.
+- Expands gameplay beyond the default crewmate vs. impostor mechanics.
 
 ### 5. Among Us Clone Projects
 
-Developers have created fan-made versions of Among Us with unique twists.
+- Developers have created fan-made versions of Among Us with unique twists.
 
-Playable in browsers, mobile, and even console adaptations.
+- Playable in browsers, mobile, and even console adaptations.
 
-🛠️ How to Use GitHub to Find Among Us Mods
+---
+## 🛠️ How to Use GitHub to Find [Among Us](https://amongus-online.io/) Mods
 
 If you’re looking to explore Among Us projects on GitHub, follow these steps:
 
-Step 1: Search on GitHub
+### Step 1: Search on GitHub
 
-Visit GitHub.com and search for Among Us mods, bots, or private servers.
+- Visit GitHub.com and search for Among Us mods, bots, or private servers.
 
-Use keywords like “Among Us mod loader” or “Among Us bot”.
+- Use keywords like “Among Us mod loader” or “Among Us bot”.
 
-Step 2: Check Repositories
+### Step 2: Check Repositories
 
-Look for projects with high stars and active contributors.
+- Look for projects with high stars and active contributors.
 
-Read the README file to understand installation and usage instructions.
+- Read the README file to understand installation and usage instructions.
 
-Step 3: Download and Install Mods
+### Step 3: Download and Install Mods
 
-Follow the instructions provided by the repository.
+- Follow the instructions provided by the repository.
 
-Make sure your game version is compatible with the mod.
+- Make sure your game version is compatible with the mod.
 
-Step 4: Join the Community
+### Step 4: Join the Community
 
-Many projects have Discord servers or forums where players and developers discuss updates.
+- Many projects have Discord servers or forums where players and developers discuss updates.
 
-Contribute to open-source projects if you have coding skills!
+- Contribute to open-source projects if you have coding skills!
 
-⚠️ Are Among Us GitHub Mods Safe?
+---
+## ⚠️ Are Among Us GitHub Mods Safe?
 
 While many GitHub projects are legitimate, be cautious:
 
-Avoid suspicious repositories – Some may contain malware.
+- Avoid suspicious repositories – Some may contain malware.
 
-Check the project’s credibility – Read user reviews and contributions.
+- Check the project’s credibility – Read user reviews and contributions.
 
-Backup your game files before installing mods.
+- Backup your game files before installing mods.
 
-🎮 Play Among Us Now!
+---
+## 🎮 Play [Among Us](https://amongus-online.io/) Now!
 
 If you're looking to enjoy Among Us without mods, you can play the original game online for free.
 
-Start playing now!
-
-Have you tried any Among Us mods or custom servers? Share your experience in the comments below! 🛸
+Start playing now!🛸
